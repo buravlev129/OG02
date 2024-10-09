@@ -5,6 +5,6 @@ import json
 Новая функция добавлена в ветку
 """
 
+def get_feature():
+    return "feature"
 
-if __name__ == "__main__":
-    pass
